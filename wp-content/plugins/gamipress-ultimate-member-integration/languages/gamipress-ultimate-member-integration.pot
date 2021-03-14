@@ -1,0 +1,404 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: GamiPress Ultimate Member Integration\n"
+"Report-Msgid-Bugs-To: https://gamipress.com/\n"
+"POT-Creation-Date: 2019-07-22 10:21+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: GamiPress (https://gamipress.com/)\n"
+"Language-Team: GamiPress <contact@gamipress.com>\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: libraries\n"
+
+#: gamipress-ultimate-member.php:141
+#, php-format
+msgid "GamiPress - Ultimate Member integration requires %s and %s in order to work. Please install and activate them."
+msgstr ""
+
+#: includes/admin.php:76 includes/triggers.php:22
+msgid "Ultimate Member"
+msgstr ""
+
+#: includes/admin.php:82
+msgid "Where Place User Points?"
+msgstr ""
+
+#: includes/admin.php:83
+msgid "Check this option to show the user points on the Ultimate Member profile."
+msgstr ""
+
+#: includes/admin.php:86 includes/admin.php:148 includes/admin.php:263
+msgid "Not display"
+msgstr ""
+
+#: includes/admin.php:87 includes/admin.php:149 includes/admin.php:264
+msgid "As a new profile tab"
+msgstr ""
+
+#: includes/admin.php:88 includes/admin.php:150 includes/admin.php:265
+msgid "At top (before the user name)"
+msgstr ""
+
+#: includes/admin.php:89 includes/admin.php:151 includes/admin.php:266
+msgid "Both"
+msgstr ""
+
+#: includes/admin.php:93
+msgid "User Profile Points Tab Title"
+msgstr ""
+
+#: includes/admin.php:94 includes/admin.php:156 includes/admin.php:271
+msgid "Text to show on the Ultimate Member user profile."
+msgstr ""
+
+#: includes/admin.php:96 includes/admin.php:368
+msgid "Points"
+msgstr ""
+
+#: includes/admin.php:99
+msgid "User Profile Points Tab Slug (Option)"
+msgstr ""
+
+#: includes/admin.php:100 includes/admin.php:162 includes/admin.php:277
+msgid "URL slug to use on the profile tab. Leave blank and slug will be a URL version of the tab title (eg: \"My Tab Title\" will have a slug like \"my-tab-title\")."
+msgstr ""
+
+#: includes/admin.php:101 includes/admin.php:163 includes/admin.php:278
+msgid "<strong>Important:</strong> If you set a tab title with special characters then provide a slug with URL friendly characters."
+msgstr ""
+
+#: includes/admin.php:105
+msgid "User Profile Points Tab Icon"
+msgstr ""
+
+#: includes/admin.php:106 includes/admin.php:168 includes/admin.php:283
+msgid "Icon to show on the Ultimate Member user profile tab."
+msgstr ""
+
+#: includes/admin.php:107 includes/admin.php:169 includes/admin.php:284
+msgid "Full list of available icons."
+msgstr ""
+
+#: includes/admin.php:112
+msgid "User Profile Points Types"
+msgstr ""
+
+#: includes/admin.php:113
+msgid "Choose the points types you want to show on Ultimate Member user profile."
+msgstr ""
+
+#: includes/admin.php:118
+msgid "Points At Top Display Options"
+msgstr ""
+
+#: includes/admin.php:119
+msgid "Setup how points should look at top of the Ultimate Member user profile."
+msgstr ""
+
+#: includes/admin.php:123 includes/admin.php:185 includes/admin.php:300
+msgid "Show Thumbnail"
+msgstr ""
+
+#: includes/admin.php:124
+msgid "Show the points type featured image."
+msgstr ""
+
+#: includes/admin.php:129 includes/admin.php:191 includes/admin.php:306
+msgid "Thumbnail Size"
+msgstr ""
+
+#: includes/admin.php:130 includes/admin.php:192 includes/admin.php:307
+msgid "Set the thumbnail size (in pixels)."
+msgstr ""
+
+#: includes/admin.php:135
+msgid "Show Label"
+msgstr ""
+
+#: includes/admin.php:136
+msgid "Show the points type singular or plural label."
+msgstr ""
+
+#: includes/admin.php:144
+msgid "Where Place User Achievements?"
+msgstr ""
+
+#: includes/admin.php:145
+msgid "Check this option to show the user achievements on the Ultimate Member profile."
+msgstr ""
+
+#: includes/admin.php:155
+msgid "User Profile Achievement Types Tab Title"
+msgstr ""
+
+#: includes/admin.php:158 includes/admin.php:384
+#: includes/ultimate-member-profile.php:27
+#: includes/ultimate-member-profile.php:47
+#: includes/ultimate-member-profile.php:100
+#: includes/ultimate-member-profile.php:116
+msgid "Achievements"
+msgstr ""
+
+#: includes/admin.php:161
+msgid "User Profile Achievement Types Tab Slug (Option)"
+msgstr ""
+
+#: includes/admin.php:167
+msgid "User Profile Achievements Tab Icon"
+msgstr ""
+
+#: includes/admin.php:174
+msgid "User Profile Achievement Types"
+msgstr ""
+
+#: includes/admin.php:175
+msgid "Choose the achievement types you want to show on Ultimate Member user profile achievements tab."
+msgstr ""
+
+#: includes/admin.php:180
+msgid "Achievements At Top Display Options"
+msgstr ""
+
+#: includes/admin.php:181
+msgid "Setup how achievements should look at top of the Ultimate Member user profile."
+msgstr ""
+
+#: includes/admin.php:186 includes/admin.php:301
+msgid "Show the achievement featured image."
+msgstr ""
+
+#: includes/admin.php:197 includes/admin.php:312
+msgid "Show Title"
+msgstr ""
+
+#: includes/admin.php:198
+msgid "Show the achievements title."
+msgstr ""
+
+#: includes/admin.php:203 includes/admin.php:318
+msgid "Show Link"
+msgstr ""
+
+#: includes/admin.php:204
+msgid "Add a link to the achievement page."
+msgstr ""
+
+#: includes/admin.php:209
+msgid "Achievements Tab Display Options"
+msgstr ""
+
+#: includes/admin.php:210
+msgid "Setup how achievements should look on the Ultimate Member user profile tab."
+msgstr ""
+
+#: includes/admin.php:214 includes/admin.php:329
+msgid "Columns"
+msgstr ""
+
+#: includes/admin.php:215
+msgid "Columns to divide achievements."
+msgstr ""
+
+#: includes/admin.php:218 includes/admin.php:333
+msgid "1 Column"
+msgstr ""
+
+#: includes/admin.php:219 includes/admin.php:334
+msgid "2 Columns"
+msgstr ""
+
+#: includes/admin.php:220 includes/admin.php:335
+msgid "3 Columns"
+msgstr ""
+
+#: includes/admin.php:221 includes/admin.php:336
+msgid "4 Columns"
+msgstr ""
+
+#: includes/admin.php:222 includes/admin.php:337
+msgid "5 Columns"
+msgstr ""
+
+#: includes/admin.php:223 includes/admin.php:338
+msgid "6 Columns"
+msgstr ""
+
+#: includes/admin.php:228
+msgid "Limit"
+msgstr ""
+
+#: includes/admin.php:229
+msgid "Number of achievements to display."
+msgstr ""
+
+#: includes/admin.php:234 includes/admin.php:343
+msgid "Order By"
+msgstr ""
+
+#: includes/admin.php:235 includes/admin.php:344
+msgid "Parameter to use for sorting."
+msgstr ""
+
+#: includes/admin.php:238
+msgid "Menu Order"
+msgstr ""
+
+#: includes/admin.php:239
+msgid "Achievement ID"
+msgstr ""
+
+#: includes/admin.php:240
+msgid "Achievement Title"
+msgstr ""
+
+#: includes/admin.php:241 includes/admin.php:350
+msgid "Published Date"
+msgstr ""
+
+#: includes/admin.php:242 includes/admin.php:351
+msgid "Last Modified Date"
+msgstr ""
+
+#: includes/admin.php:243
+msgid "Achievement Author"
+msgstr ""
+
+#: includes/admin.php:244 includes/admin.php:352
+msgid "Random"
+msgstr ""
+
+#: includes/admin.php:249 includes/admin.php:357
+msgid "Order"
+msgstr ""
+
+#: includes/admin.php:250 includes/admin.php:358
+msgid "Sort order."
+msgstr ""
+
+#: includes/admin.php:252 includes/admin.php:360
+msgid "Ascending"
+msgstr ""
+
+#: includes/admin.php:252 includes/admin.php:360
+msgid "Descending"
+msgstr ""
+
+#: includes/admin.php:259
+msgid "Where Place User Ranks?"
+msgstr ""
+
+#: includes/admin.php:260
+msgid "Check this option to show the user ranks on the Ultimate Member profile."
+msgstr ""
+
+#: includes/admin.php:270
+msgid "User Profile Rank Types Tab Title"
+msgstr ""
+
+#: includes/admin.php:273 includes/admin.php:407
+#: includes/ultimate-member-profile.php:67
+#: includes/ultimate-member-profile.php:132
+msgid "Ranks"
+msgstr ""
+
+#: includes/admin.php:276
+msgid "User Profile Rank Types Tab Slug (Option)"
+msgstr ""
+
+#: includes/admin.php:282
+msgid "User Profile Ranks Tab Icon"
+msgstr ""
+
+#: includes/admin.php:289
+msgid "User Profile Rank Types"
+msgstr ""
+
+#: includes/admin.php:290
+msgid "Choose the rank types you want to show on Ultimate Member user profile ranks tab."
+msgstr ""
+
+#: includes/admin.php:295
+msgid "Ranks At Top Display Options"
+msgstr ""
+
+#: includes/admin.php:296
+msgid "Setup how ranks should look at top of the Ultimate Member user profile."
+msgstr ""
+
+#: includes/admin.php:313
+msgid "Show the rank title."
+msgstr ""
+
+#: includes/admin.php:319
+msgid "Add a link to the rank page."
+msgstr ""
+
+#: includes/admin.php:324
+msgid "Ranks Tab Display Options"
+msgstr ""
+
+#: includes/admin.php:325
+msgid "Setup how ranks should look on the Ultimate Member user profile tab."
+msgstr ""
+
+#: includes/admin.php:330
+msgid "Columns to divide ranks."
+msgstr ""
+
+#: includes/admin.php:347
+msgid "Priority"
+msgstr ""
+
+#: includes/admin.php:348
+msgid "Rank ID"
+msgstr ""
+
+#: includes/admin.php:349
+msgid "Rank Title"
+msgstr ""
+
+#: includes/admin.php:607
+msgid "Ultimate Member integration"
+msgstr ""
+
+#: includes/triggers.php:23
+msgid "Account approved"
+msgstr ""
+
+#: includes/triggers.php:24
+msgid "Account marked as inactive"
+msgstr ""
+
+#: includes/triggers.php:25
+msgid "Change profile photo"
+msgstr ""
+
+#: includes/triggers.php:26
+msgid "Change cover photo"
+msgstr ""
+
+#: includes/triggers.php:27
+msgid "Remove profile photo"
+msgstr ""
+
+#: includes/triggers.php:28
+msgid "Remove cover photo"
+msgstr ""
+
+#: includes/triggers.php:29
+msgid "Update profile description"
+msgstr ""
+
+#: includes/triggers.php:30
+msgid "Update account information"
+msgstr ""

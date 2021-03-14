@@ -1,0 +1,9 @@
+Mar 14 2021 20:47:15
+{"Number":8,"Message":"unserialize(): Error at offset 1784 of 1968 bytes","File":"C:\\xampp\\htdocs\\Botolati\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\database\\class-ai1wm-database-utility.php","Line":64}
+
+Mar 14 2021 20:47:23
+{"type":8,"message":"Trying to get property 'simple' of non-object","file":"C:\\xampp\\htdocs\\Botolati\\wp-content\\plugins\\ultimate-elementor\\admin\\bsf-core\\plugin-installer\\admin-functions.php","line":113}
+
+Mar 14 2021 20:47:23
+{"type":8,"message":"Undefined index: page","file":"C:\\xampp\\htdocs\\Botolati\\wp-content\\plugins\\pixiefreakpanel\\framework\\Request.php","line":128}
+
